@@ -6,6 +6,21 @@
 ᴀɴ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ꜱʏꜱᴛᴇᴍ ɪꜱ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ᴛᴏ ɪᴅᴇɴᴛɪꜰʏ ᴅɪꜰꜰᴇʀᴇɴᴛ ᴅɪꜱᴇᴀꜱᴇꜱ ᴏɴ ᴘʟᴀɴᴛꜱ ʙʏ ᴄʜᴇᴄᴋɪɴɢ ᴛʜᴇ ꜱʏᴍᴘᴛᴏᴍꜱ ꜱʜᴏᴡɴ ᴏɴ ᴛʜᴇ ʟᴇᴀᴠᴇꜱ ᴏꜰ ᴛʜᴇ ᴘʟᴀɴᴛ. ᴅᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ ᴛᴇᴄʜɴɪQᴜᴇꜱ ᴀʀᴇ ᴜꜱᴇᴅ ᴛᴏ ɪᴅᴇɴᴛɪꜰʏ ᴛʜᴇ ᴅɪꜱᴇᴀꜱᴇꜱ ᴀɴᴅ ꜱᴜɢɢᴇꜱᴛ ᴛʜᴇ ᴘʀᴇᴄᴀᴜᴛɪᴏɴꜱ ᴛʜᴀᴛ ᴄᴀɴ ʙᴇ ᴛᴀᴋᴇɴ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴅɪꜱᴇᴀꜱᴇꜱ.
 
 
+# Project Objectives
+
+   Preprocess the images.
+
+   Applying the CNN algorithm to the dataset.
+
+   How deep neural networks detect the disease.
+
+   You will be able to know how to find the accuracy of the model.
+
+   You will be able to build web applications using the Flask framework.
+
+
+
 # Project Structure With Work Flow (Architecture)
-________________________________________________________________________________________________________________________________________________________
+
+
 ![189512983-8f4757ef-6f88-4a87-b3c3-9755d09a61e5](https://user-images.githubusercontent.com/113834615/190993576-085fd3d4-e991-4e87-8f3f-4079db0c7563.png)
