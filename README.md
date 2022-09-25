@@ -8,15 +8,15 @@
 
 # Project Objectives
 
-   Preprocess the images.
+              1.Preprocess the images.
+             
+              2.Applying the CNN algorithm to the dataset.
 
-   Applying the CNN algorithm to the dataset.
+              3.How deep neural networks detect the disease.
 
-   How deep neural networks detect the disease.
+              4.You will be able to know how to find the accuracy of the model.
 
-   You will be able to know how to find the accuracy of the model.
-
-   You will be able to build web applications using the Flask framework.
+              5.You will be able to build web applications using the Flask framework.
 
 
 # Project Flow
